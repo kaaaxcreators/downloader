@@ -1,0 +1,61 @@
+body{
+    font-family: sans-serif, arial;
+    color: #FFFFFF;
+	background-color: #2C2F33;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+}
+
+a{
+    color: #FFFFFF;
+}a:hover{
+    text-decoration: none;
+    color: #add8e6;
+}
+
+/**********************************/
+
+.home .center-row{
+    float: none;
+    margin: auto;
+    padding-bottom: 1em;
+}
+
+.home .vertical-space{
+    float: none;
+    margin: auto;
+    padding-bottom: 3em;
+}
+
+.home h1 a{
+    color: #add8e6;
+}.home h1  a:hover{
+    text-decoration: none;
+}
+
+.home .processing-img{
+    width: 4em;
+    height: auto;
+}
+
+.home .download-link-box{
+    resize: vertical;
+}
+
+.home .footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/**********************************/
+
+.toast-down{
+    background-image: url("../res/images/warning.png") !important;
+    background-color: #8c8c8c;
+}
+
+
+
