@@ -10,10 +10,10 @@ With this tool you can directly download or create download link to any GitHub *
 
 ### How to Use?
 
-Install npm/node
-"npm i"
-set env vars! PORT and HOST
-"npm start"
+Install npm/node  
+`npm i`  
+set env vars! PORT and HOST  
+`npm start`  
 
 ##### Advanced Usage
 
