@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Download what you want, instead of the whole repo",
   "main": "index.html",
-  "directories": {
-    "lib": "lib"
-  },
   "dependencies": {
     "angular": "^1.8.0",
     "http": "latest"
